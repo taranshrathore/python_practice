@@ -1,1 +1,9 @@
 #I will be making notes here
+
+
+
+#iterators and generators
+Rather than letting python save everything in memory at once, this lets it give each value at once only continues when asked, help in large backends with huge files
+
+yield is used to pause the value, than gen is used to recal the function and next is used to print one by one , can use loop to print all the values 
+
