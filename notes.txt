@@ -7,3 +7,10 @@ Rather than letting python save everything in memory at once, this lets it give 
 
 yield is used to pause the value, than gen is used to recal the function and next is used to print one by one , can use loop to print all the values 
 
+#Closures and Decorators
+
+closure is when the inner function recalls the variabe from the outer function or scope
+closures are foundations on which decorator is built upon
+
+A Decorator is a function that takes another function as the input, add extra behavior around it and return it back without modifying the actual function code
+
